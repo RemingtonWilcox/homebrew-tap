@@ -1,6 +1,6 @@
 cask "portgui" do
-  version "0.1.0"
-  sha256 "a8a77d9cec4c44166222decccdfb6b5d79b5ab82ce4109d06ef6141540afe1a6"
+  version "0.1.1"
+  sha256 "aa556eeec80983c5d78f682e58fff3c8868d0ff037c1ced05919a695353a7b2d"
 
   url "https://github.com/RemingtonWilcox/portgui/releases/download/v#{version}/PortGUI_#{version}_aarch64.dmg"
   name "PortGUI"
